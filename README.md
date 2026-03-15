@@ -35,6 +35,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <img src="https://academy.hackthebox.com/storage/badges/our-favorite-seabird.png" height="40" "  />
 
 ###
 
